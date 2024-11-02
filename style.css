@@ -322,7 +322,7 @@ a{
 .project-card {
   width: 90%;
   height: 550px;
-  background-image: url(./projects/project1.png);
+  background-image: url(./images/projects/project1.png);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -482,7 +482,7 @@ a{
   }
   .project-content {
     scale: 0.5;
-    bottom: 0;
+    bottom: 2;
     left: 0;
     right: 0;
     top: 0;
